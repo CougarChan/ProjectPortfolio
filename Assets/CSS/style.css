@@ -1,0 +1,136 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    }
+
+
+
+.hero {
+    background-image: url("../Images/60144316a7c0c4001991dde6.jfif");
+    height: 600px;
+    background-size: cover;
+   background-position: center;
+   position: relative;
+}
+ 
+section{ padding: 60px;   
+}
+
+.header{
+border: 8px 30px;
+padding: 8px 30px;
+background-color:steelblue; 
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;                                        
+}
+
+.header nav{
+    display: inline-block;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0;
+    text-align: right;
+    vertical-align: middle;
+    width: 70%;
+}
+
+
+.header nav ul li{
+display: inline-block;
+padding: 0px 40px;
+
+
+}
+.header nav ul li a {
+    font-size: 20px;
+    color: white;
+}
+
+a{
+text-decoration: none;
+}
+
+header h1 a {
+color: white;
+
+}
+.hero-form{
+
+
+    background-color: #2f4685;
+    padding: 200px 70px;
+    width: 500px;
+    color: #ffffff;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #000000;
+    bottom: 12px;
+    right: 14px;
+    top: 170px;
+   
+}
+.hero-form h3 {
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+position: absolute;
+top: 30px;
+left: 30px;
+
+}
+
+.hero-form  p{
+    display: flex;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+position: absolute;
+ bottom: 40px;
+ left: 20px;
+
+ 
+
+
+}
+.hero-form img {
+   position: absolute; 
+   top: 60px;
+   left: 30px;
+
+}
+
+.service{
+background-color: steelblue;
+
+}
+.service h2 {
+
+color: white;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: x-large;
+text-align: center;
+position:relative;
+bottom: 20px;
+
+
+
+}
+
+.Horiseon a {  
+    position: relative;
+    left: 20%;
+}
+
+.service p{
+
+font-size: x-large;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: white;
+text-align: center;
+
+}
+
+.PlaceHolders {
+    position: relative;
+    left: 10%;
+
+}
